@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+
+body{
+    margin: 0;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
+    text-align: left;
+    background-color: #f5f8fa;
+}
+col-md-6 i{
+    margin-left: -30px;
+    cursor: pointer;
+}
+
+.navbar{background-color: #333 !important; display: flex; justify-content: space-between; align-items: center; padding: 15px;}
+.logo a{ color: white; font-size: 24px; text-decoration: none; font-weight: bold; }
+.nav-links {list-style: none; display: flex; }
+.nav-links li { margin: 0 15px; }
+.nav-links a { color: white; text-decoration: none; font-size: 18px; }
+.nav-links a:hover {color: #ffdd57 !important; }
+
+
+img {
+    width: 39px;
+    height: 36px;
+}
+
+.my-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.my-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.login-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+input[type=submit]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
