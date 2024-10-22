@@ -47,7 +47,7 @@ In addition to these core benefits, the Warranty Tracker App is designed with se
 
 ## Download
 
-You can download the Warranty Tracker App from [Dropbox](https://tinyurl.com/cacparin) or access it directly from our [GitHub repository](https://github.com/parin-th/Warranty-Tracker).
+You can download the Warranty Tracker App from [Dropbox](https://tinyurl.com/cacparin) and access JUST the source code from my [Github](https://github.com/parin-th/Warranty-Wizard/)
 
 **Web Version**: We’re excited to announce that a website version of the Warranty Tracker is coming soon! Stay tuned for updates as we expand our offerings to reach even more users, allowing you to manage your warranties from any device with an internet connection.
 
