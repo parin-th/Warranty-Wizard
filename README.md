@@ -57,7 +57,7 @@ You can download the Warranty Wizard App from [Dropbox](https://tinyurl.com/cacp
 
 ### Windows
 
-1. Download the app from the links above.
+1. Download the exe file from the dropbox link above.
 2. Run the downloaded file by double-clicking on it.
 3. Follow the setup wizard prompts to complete the installation.
 4. Once the installation is finished, launch the app and start using it!
